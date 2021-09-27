@@ -1,6 +1,5 @@
 import React from 'react'
 import * as S from "./style"
-
 export function Header(){
    return(
        <S.Nav>
