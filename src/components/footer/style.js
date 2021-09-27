@@ -12,9 +12,6 @@ border: solid #1D334A 2px;
 margin-top: 20px;
 
 `
-
-
-
 export const Boxitem = styled.h1
 `
 color: white;
@@ -29,7 +26,6 @@ width: 500px;
 }
 
 `
-
 export const Item = styled.li
 `
 cursor: pointer;
