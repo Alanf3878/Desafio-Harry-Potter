@@ -46,7 +46,6 @@ export const Text = styled.b
  border-radius: 10px;
  justify-content: space-around;
  background-image: url(${Img});
-
  `
 
  export const Boxtainer = styled.div 
@@ -67,5 +66,4 @@ export const Text = styled.b
  align-items: center;
  justify-content: space-evenly;
  height: 70px;
-
  `
