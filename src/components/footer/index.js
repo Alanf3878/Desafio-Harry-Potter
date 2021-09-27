@@ -3,8 +3,7 @@ import * as S from "./style"
 
 export function Footer(){
    return(
-       <S.Nav>
-          
+       <S.Nav>       
            <S.Boxitem>
                <S.Item>Sonserina</S.Item>
                <S.Item>Corvinal</S.Item>
