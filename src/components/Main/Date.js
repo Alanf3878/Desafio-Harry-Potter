@@ -1,12 +1,9 @@
 import React from 'react';
 import * as S from "./style"
 
-
 const Data = ({item}) => {
     return ( 
-
        <S.Boxtainer>
-    
           <S.Container>
         <S.Title>{item.name}</S.Title>
         <S.Photo src={item.image}/>
@@ -16,7 +13,6 @@ const Data = ({item}) => {
         </S.Textcontainer>
         </S.Container>
         </S.Boxtainer>
-       
  );
 }
  
