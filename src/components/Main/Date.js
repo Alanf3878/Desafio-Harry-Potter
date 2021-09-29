@@ -1,6 +1,5 @@
 import React from 'react';
 import * as S from "./style"
-
 const Data = ({item}) => {
     return ( 
        <S.Boxtainer>
@@ -15,5 +14,4 @@ const Data = ({item}) => {
         </S.Boxtainer>
  );
 }
- 
 export default Data ;
