@@ -15,7 +15,6 @@ const Divs = styled.div
   border-radius: 20px;
   border: solid #1D334A 2px;
 `
-
 export default function Main({character}){
    return(
        <Divs>            
